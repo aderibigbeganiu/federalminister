@@ -1,0 +1,272 @@
+[
+    {
+      "id": 1,
+      "name": "Federal Ministry of Agriculture & Natural Resources",
+      "minister": "Sabo Nanno",
+      "minister_state": "Mustapha Shehuri",
+      "origin": "Borno State",
+      "address": "Fed. Capital Territory Office Complex Block A, Area 11 (Eleven) P.M.B. 135, Garki, Abuja, FCT",
+      "website": "https://www.fmard.gov.ng"
+    },
+    {
+      "id": 2,
+      "name": "Federal Ministry of Aviation",
+      "minister": "Hadi Sirika",
+      "minister_state": "N/A",
+      "origin": "Katsina State",
+      "address": "Fed. Secretariat, Shehu Shagari Way, Abuja",
+      "website": "https://www.aviation.gov.ng"
+    },
+    {
+      "id": 3,
+      "name": "Federal Ministry of Commerce & Tourism",
+      "minister": "Malam Abubakar Malami",
+      "minister_state": "N/A",
+      "origin": "Kano State",
+      "address": "Old Secretariat Area I, Block G & H, P.M.B. 88, Garki, Abuja",
+      "website": "https://www.commerce.gov.ng"
+    },
+    {
+      "id": 4,
+      "name": "Federal Ministry of Communication",
+      "minister": "Ali Isa Pantami",
+      "minister_state": "N/A",
+      "origin": "Gombe State",
+      "address": "Federal Secretariat, 2nd & 3rd Floors, Abuja ",
+      "website": "https://www.commtech.gov.ng"
+    },
+    {
+      "id": 5,
+      "name": "Federal Ministry of Defence",
+      "minister": "Bashir Salihi Magashi",
+      "minister_state": "N/A",
+      "origin": "Kano State",
+      "address": "Defence Headquarters, Opp. Agura Hotel, P.M.B. 196, Area 7, Garki, Abuja",
+      "website": "https://www.defence.gov.ng"
+    },
+    {
+      "id": 6,
+      "name": "Federal Ministry of Education & Youth Dev.",
+      "minister": "Adamu Adamu",
+      "minister_state": "Emeka Nwajiuba",
+      "origin": "Bauchi State",
+      "address": "Federal Secretariat, Phase 2 (3rd Floor), Shehu Shagari Way, Abuja",
+      "website": "https://www.education.gov.ng"
+    },
+    {
+      "id": 7,
+      "name": "Federal Ministry of Environment",
+      "minister": "Muhammad Mahmood",
+      "minister_state": "Sharon Ikeazor",
+      "origin": "Kaduna State",
+      "address": "Federal Secretariat Complex, 9th Floor, Shehu Shagari Way, PMB 468 Garki Abuja",
+      "website": "https://www.environment.gov.ng"
+    },
+    {
+      "id": 8,
+      "name": "Federal Ministry for Federal Capital Territory",
+      "minister": "Mohammed Musa Bello",
+      "minister_state": "Ramatu Tijani",
+      "origin": "Adamawa State",
+      "address": "Area 11, Garki, Abuja, P.M.B. 25, Garki, Abuja",
+      "website": "https://www.fcda.gov.ng"
+    },
+    {
+      "id": 9,
+      "name": "Federal Ministry of Finance & Economic Development",
+      "minister": "Zainab Ahmed",
+      "minister_state": "Clement Agba",
+      "origin": "KAduna State",
+      "address": "(Opposite Central Bank), P.M.B. 14, Garki, Abuja",
+      "website": "https://www.finance.gov.ng"
+    },
+    {
+      "id": 10,
+      "name": "Ministry of Foreign Affairs",
+      "minister": "Geoffrey Onyeama",
+      "minister_state": "Zubair Dada",
+      "origin": "Enugu State",
+      "address": "Maputo St., Wuse, Zone 3 (Opposite Nigeria Custom Services), P.M.B. 130, Garki, Abuja",
+      "website": "https://www.foreignaffairs.gov.ng"
+    },
+    {
+      "id": 11,
+      "name": "Federal Ministry of Health & Social Services",
+      "minister": "Osagie Ehanire",
+      "minister_state": "Adeleke Mamora",
+      "origin": "Edo State",
+      "address": "Block 4A (301-399), 3rd Floor, New Fed. Secretariat Complex, Shehu Shagari Way, P.M.B. 83, (Garki Post Office), Abuja",
+      "website": "https://www.health.gov.ng"
+    },
+    {
+      "id": 12,
+      "name": "Federal Ministry of Industries",
+      "minister": "Richard Adeniyi Adebayo",
+      "minister_state": "Amb MAryam Katagum",
+      "origin": "Ekiti State",
+      "address": "Old Federal Secretariat, Area 1, Garki, Block C, Abuja",
+      "website": "https://www.fmiti.gov.ng"
+    },
+    {
+      "id": 13,
+      "name": "Federal Ministry of Information & Culture",
+      "minister": "Lai Mohammed",
+      "minister_state": "N/A",
+      "origin": "Kawara State",
+      "address": "Phase II Federal Secretariat; Shehu Shagari Way Abuja Nigeria.",
+      "website": "https://www.fmic.gov.ng"
+    },
+    {
+      "id": 14,
+      "name": "Federal Ministry of Interior",
+      "minister": "Rauf Aregbesola",
+      "minister_state": "N/A",
+      "origin": "Osun State",
+      "address": "Block F Old Secretariat, Area I, Garki, Abuja, P.M.B. 0016, Garki Post Office",
+      "website": "https://www.interior.gov.ng"
+    },
+    {
+      "id": 15,
+      "name": "Federal Ministry of Justice",
+      "minister": "Malam Abubakar Malami",
+      "minister_state": "N/A",
+      "origin": "Kebbi State",
+      "address": "New Fed. Secretariat Complex, 10th Floor, Federal Secretariat, Wing lB (1001-1099), Block One, Shehu Shagari Way, Abuja",
+      "website": "https://www.justice.gov.ng"
+    },
+    {
+      "id": 16,
+      "name": "Federal Ministry of Labour & Productivity",
+      "minister": "Chris Ngige",
+      "minister_state": "Tayo Alasodura",
+      "origin": "Anambra State",
+      "address": "2nd Floor (257-237), Block 4A, New Federal Secretariat Complex, Shehu Shagari Way Central Area, Abuja",
+      "website": "https://www.labour.gov.ng"
+    },
+    {
+      "id": 17,
+      "name": "Federal Ministry of Petroleum Resources",
+      "minister": "Muhammadu Buhari",
+      "minister_state": "Timipre Sylva",
+      "origin": "Katsina State",
+      "address": "Federal Secretariat, Shehu Shagari Way, Abuja",
+      "website": "petroleumresources.gov.ng"
+    },
+    {
+      "id": 18,
+      "name": "Federal Ministry of Power & Steel",
+      "minister": "Sale Mamman",
+      "minister_state": "Goddy Jedy Agba",
+      "origin": "Taraba State",
+      "address": "New Fed. Secretariat Complex, 3rd - 4th Floors, Annex B Shehu Shagari Way, Abuja",
+      "website": "https://www.pwh.gov.ng"
+    },
+    {
+      "id": 19,
+      "name": "Federal Ministry of Science & Technology",
+      "minister": "Ogbannaya Onu",
+      "minister_state": "Mohammed H. Abdullahi",
+      "origin": "Ebonyi State",
+      "address": "9th Floor, New Fed. Government Secretariat (Opp. New Parade Ground), Shehu Shagari Way, Abuja",
+      "website": "https://www.scienceandtech.gov.ng"
+    },
+    {
+      "id": 20,
+      "name": "Federal Ministry of Mines and Steel Development",
+      "minister": "Olamilekan Adegbite",
+      "minister_state": "Uchechukwu Ogah",
+      "origin": "Ogun State",
+      "address": "5th Floor, Annex 3, New Federal Secretariat Complex, Shehu Shagari Way, Central Area, Abuja",
+      "website": "https://www.minesandsteel.gov.ng"
+    },
+    {
+      "id": 21,
+      "name": "Federal Ministry of Special Duties",
+      "minister": "George Akume",
+      "minister_state": "N/A",
+      "origin": "Benue State",
+      "address": "First Floor, Phase II, New Federal Secretariat, Shehu Shagari Way, Abuja.",
+      "website": "https://www.sduties.gov.ng"
+    },
+    {
+      "id": 22,
+      "name": "Federal Ministry of Transport",
+      "minister": "Rotimi Amaechi",
+      "minister_state": "Gbemisola Saraki",
+      "origin": "Rivers State",
+      "address": "2nd Floor, Annex 3, New Fed. Secretariat Complex Shehu Shagari Way, Central Area, P.M.B. 1136, Abuja",
+      "website": "https://www.transportation.gov.ng"
+    },
+    {
+      "id": 23,
+      "name": "Federal Ministry of Water Resources & Rural Development",
+      "minister": "Suleiman Adamu",
+      "minister_state": "N/A",
+      "origin": "Jigawa State",
+      "address": "P.M.B. 159, Block A, Old Secretariat Area I, Garki, Abuja.",
+      "website": "https://www.waterresources.gov.ng"
+    },
+    {
+      "id":24,
+      "name": "Federal Ministry of Women Affairs & Social Development",
+      "minister": "Paulen Tallen",
+      "minister_state": "N/A",
+      "origin": "Plateau State",
+      "address": "2nd Floor (201-224), Annex 3, New Federal Secretariat Complex, Shehu Shagari Way, P.M.B. 229, Central Area, Abuja, FCT.",
+      "website": "https://www.women.gov.ng"
+    },
+    {
+      "id": 25,
+      "name": "Federal Ministry of Works & Housing",
+      "minister": "Babatunde FAshola",
+      "minister_state": "Abubakar D. Aliyu",
+      "origin": "Lagos State",
+      "address": "Radio House, Herbert Macaulay Way (South), P.M.B. ill, Garki, Abuja (Opp. Int'l. Conference Centre)",
+      "website": "worksandhousing.gov.ng"
+    },
+    {
+      "id": 26,
+      "name": "Federal Ministry of Youth & Sports",
+      "minister": "Sunday Dare",
+      "minister_state": "N/A",
+      "origin": "Oyo State",
+      "address": "New Federal Secretariat Complex, Maitama Sule, Garki, Abuja",
+      "website": "https://www.youthdevelopment.gov.ng"
+    },
+    {
+      "id": 27,
+      "name": "Ministry of Niger Delta",
+      "minister": "Godswill Akpabio",
+      "minister_state": "Festus Keyamo",
+      "origin": "Akwa Ibom State",
+      "address": "New Federal Secretariat Complex, Maitama Sule, Garki, Abuja",
+      "website": "https://www.nigerdelta.gov.ng"
+    },
+    {
+      "id": 28,
+      "name": "Ministry of Budget & National Planning",
+      "minister": "Zainan Ahmed",
+      "minister_state": "Clement Agba",
+      "origin": "Akwa Ibom State",
+      "address": "New Federal Secretariat Complex, Maitama Sule, Garki, Abuja",
+      "website": "https://www.nationalplanning.gov.ng"
+    },
+    {
+      "id": 29,
+      "name": "Ministry of Police Affairs",
+      "minister": "Maigari Dingyadi",
+      "minister_state": "N/A",
+      "origin": "Sokoto State",
+      "address": "New Federal Secretariat Complex, Maitama Sule, Garki, Abuja",
+      "website": "https://www.police.gov.ng"
+    },
+    {
+      "id": 30,
+      "name": "Ministry of Humanitarian Affairs & Disaster Management",
+      "minister": "Sadiya Umar Faruk",
+      "minister_state": "N/A",
+      "origin": "Sokoto State",
+      "address": "New Federal Secretariat Complex, Maitama Sule, Garki, Abuja",
+      "website": "https://www.haffairs.gov.ng"
+    }
+]
